@@ -4,4 +4,4 @@ usr/local/etc/keytables
 usr/local/etc/keytables/jivelite
 usr/local/etc/keytables/jivelite/myremote
 usr/local/tce.installed
-usr/local/tce.installed/myremote
+usr/local/tce.installed/pcp-custom-jivelite-keytable
