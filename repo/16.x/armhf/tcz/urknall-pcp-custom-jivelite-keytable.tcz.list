@@ -1,7 +1,7 @@
 usr/local
-usr/local/etc
-usr/local/etc/keytables
-usr/local/etc/keytables/jivelite
-usr/local/etc/keytables/jivelite/myremote
+usr/local/share
+usr/local/share/urknall
+usr/local/share/urknall/keytables
+usr/local/share/urknall/keytables/jivelite
 usr/local/tce.installed
 usr/local/tce.installed/pcp-custom-jivelite-keytable
