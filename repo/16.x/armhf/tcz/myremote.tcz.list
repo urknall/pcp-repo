@@ -1,7 +1,0 @@
-squashfs-root/usr/local
-squashfs-root/usr/local/etc
-squashfs-root/usr/local/etc/keytables
-squashfs-root/usr/local/etc/keytables/jivelite
-squashfs-root/usr/local/etc/keytables/jivelite/myremote
-squashfs-root/usr/local/tce.installed
-squashfs-root/usr/local/tce.installed/myremote
