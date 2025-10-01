@@ -1,1 +1,1 @@
-b55364df90cc9b91223e948268810918  urknall-pcp-remotepi-board.tcz
+372a6f3512a26aeea3f91b24f2c318c0  urknall-pcp-remotepi-board.tcz
