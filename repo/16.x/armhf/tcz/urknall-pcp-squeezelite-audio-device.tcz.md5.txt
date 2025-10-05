@@ -1,1 +1,1 @@
-27ec384f3e63a99ae0a97feb3b063c84  urknall-pcp-squeezelite-audio-device.tcz
+948030719430dd45ef7a78c3d1545340  urknall-pcp-squeezelite-audio-device.tcz
