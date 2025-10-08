@@ -1,0 +1,7 @@
+Title:          urknall-pcp-backlight-control
+Description:    Backlight control support for pCP
+Version:        2025.10.08
+Author:         urknall
+Copying-policy: MIT
+Size:           12K
+Comments:       Built from src/pkgroot; repo path /repo/16.x/aarch64/tcz/
