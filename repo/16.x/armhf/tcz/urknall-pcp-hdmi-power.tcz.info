@@ -1,7 +1,0 @@
-Title:          urknall-pcp-hdmi-power
-Description:    Turn off HDMI to save power on pCP
-Version:        2025.10.06
-Author:         urknall
-Copying-policy: MIT
-Size:           4.0K
-Comments:       Built from src/pkgroot; repo path /repo/16.x/armhf/tcz/
