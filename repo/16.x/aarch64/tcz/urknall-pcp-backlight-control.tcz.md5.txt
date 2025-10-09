@@ -1,1 +1,1 @@
-88916b182b23e647c6632bdafdc8b0a3  urknall-pcp-backlight-control.tcz
+62c5ff665fcec9c485d2f31e40fead4c  urknall-pcp-backlight-control.tcz
